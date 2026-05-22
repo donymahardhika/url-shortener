@@ -35,6 +35,7 @@ This project was created to solve the difficulty of remembering long URLs. With 
 - QR Code logo path configurable in /assets/your-logo.png (Recommended resolution: 1000 x 1000 px).
 
 ## Folder Structure
+```text
 url-shortener/
 ├── assets/
 │   └── your-logo.png
@@ -50,9 +51,9 @@ url-shortener/
 ├── index.php
 ├── LICENSE
 ├── login.php
-└── README.md
+├── README.md
 ├── redirect.php
-
+```
 
 ## Screenshots
 
