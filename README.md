@@ -56,7 +56,67 @@ url-shortener/
 
 ## Screenshots
 
-
+  <table>
+    <!-- Baris 1 -->
+    <tr>
+      <td>
+        <figure>
+          <img width="457" height="946" alt="Login Page" src="https://github.com/user-attachments/assets/623ebb28-2a8f-4c8b-9ea5-331e4b4f0fa7" /><br>
+          <figcaption>Login Page</figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <img width="457" height="946" alt="Home Page" src="https://github.com/user-attachments/assets/1b826111-af5e-45e9-9b7d-89b1c321a2e1" /><br>
+          <figcaption>Home Page</figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <img width="457" height="946" alt="Case Sensitive - Available" src="https://github.com/user-attachments/assets/b13edf2c-a125-4538-b89f-db9341621bf0" /><br>
+          <figcaption>Case Sensitive - Available</figcaption>
+        </figure>
+      </td>
+    </tr>
+    <!-- Baris 2 -->
+    <tr>
+      <td>
+        <figure>
+          <img width="457" height="946" alt="Case Sensitive - Taken" src="https://github.com/user-attachments/assets/1072e8b5-5464-4f80-bcc0-a46e2ea246d0" /><br>
+          <figcaption>Case Sensitive - Taken</figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+         <img width="457" height="946" alt="Process - Input" src="https://github.com/user-attachments/assets/77e65c83-a4c7-4ff2-961c-17919cbb6032" /><br>
+          <figcaption>Process - Input</figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <img width="457" height="946" alt="Process - Success" src="https://github.com/user-attachments/assets/ffd171f7-fcd6-4d4f-b76b-c26b8853c02b" /><br>
+          <figcaption>Process - Success</figcaption>
+        </figure>
+      </td>
+    </tr>
+    <!-- Baris 3 -->
+    <tr>
+      <td>
+        <figure>
+          <img width="457" height="946" alt="Process - Copied" src="https://github.com/user-attachments/assets/87210353-fdc0-4597-94af-c808d22ece08" /><br>
+          <figcaption>Process - Copied</figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <img width="457" height="946" alt="Home Page - View QR Code" src="https://github.com/user-attachments/assets/d29f05ef-4fdb-4151-9674-879500b5aaec" /><br>
+          <figcaption>Home Page - View QR Code</figcaption>
+        </figure>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
 
 
 ## Contributing
