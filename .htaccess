@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Do not proceed if the original file or folder already exists
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redirect all requests to redirect.php
+RewriteRule ^(.*)$ redirect.php?code=$1 [L,QSA]

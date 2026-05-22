@@ -1,0 +1,8 @@
+cache/
+*.log
+*.tmp
+vendor/
+node_modules/
+libs/phpqrcode/cache/
+.DS_Store
+Thumbs.db
